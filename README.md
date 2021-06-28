@@ -66,6 +66,47 @@ Kemudian coba tambahkan beberapa data pada database agar dapat ditampilkan datan
   ![image](https://user-images.githubusercontent.com/81542329/122746627-0c88da00-d23f-11eb-9677-2e2bca78168a.png) <p>
 
 ![image](https://user-images.githubusercontent.com/81542329/122747212-a6508700-d23f-11eb-807a-09de92bee04e.png) <p>
+  
+ Lanjutan Tugas Praktikum 13 <p>
+  
+ Membuat Tabel User <p>
+  
+  
+  ![image](https://user-images.githubusercontent.com/81542329/123636368-a0bfe780-d7d1-11eb-9b94-0f7be5068978.png) <p>
+  
+  
+  Membuat Model User <p>
+  
+  
+  ![image](https://user-images.githubusercontent.com/81542329/123636753-14fa8b00-d7d2-11eb-97b8-f7cc977cbd42.png) <p>
+  
+  
+  Membuat Controller User <p>
+  
+  
+  ![image](https://user-images.githubusercontent.com/81542329/123637015-5d19ad80-d7d2-11eb-847b-698d209a4b93.png) <p>
+  
+  
+  Membuat View Login <P>
+  
+  
+  ![image](https://user-images.githubusercontent.com/81542329/123637357-c699bc00-d7d2-11eb-8092-af7402440bba.png) <p>
+  
+  
+  Membuat Database Seeder <p>
+  
+  
+  ![image](https://user-images.githubusercontent.com/81542329/123637719-2db77080-d7d3-11eb-92e2-8b900b32a894.png) <P>
+
+
+
+                                                                                                                  
+ 
+  
+   
+
+  
+ 
 
 
 
